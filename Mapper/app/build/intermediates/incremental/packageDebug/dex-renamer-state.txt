@@ -1,0 +1,7 @@
+#Sat Sep 23 21:22:56 GMT+05:30 2017
+base.0=D\:\\backup\\Mapper-20170922T104833Z-001\\Mapper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d9b7ded89ab9bd9791bf0c3985bdf21cb4eb9a08
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\backup\\Mapper-20170922T104833Z-001\\Mapper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5fc929ba40cb95d61261aaebb4828478c3a20179\\classes.dex
+base.1=D\:\\backup\\Mapper-20170922T104833Z-001\\Mapper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5fc929ba40cb95d61261aaebb4828478c3a20179
+file.0=D\:\\backup\\Mapper-20170922T104833Z-001\\Mapper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d9b7ded89ab9bd9791bf0c3985bdf21cb4eb9a08\\classes.dex

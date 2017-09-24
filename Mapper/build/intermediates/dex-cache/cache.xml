@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\backup\Mapper-20170922T104833Z-001\Mapper\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="032864df1291a768bb3b07a2f5df826f51967cb5">
+        <dex dex="D:\backup\Mapper-20170922T104833Z-001\Mapper\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d9b7ded89ab9bd9791bf0c3985bdf21cb4eb9a08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\backup\Mapper-20170922T104833Z-001\Mapper\app\libs\GraphView-4.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3626a38455159707e355da96a61e598fbbc049e9">
+        <dex dex="D:\backup\Mapper-20170922T104833Z-001\Mapper\app\build\intermediates\transforms\dex\debug\folders\1000\2\GraphView-4.2.1_729d0f3fb51f91a861bd7590f1e6a5fb513b867d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\backup\Mapper-20170922T104833Z-001\Mapper\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\backup\Mapper-20170922T104833Z-001\Mapper\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5fc929ba40cb95d61261aaebb4828478c3a20179\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\backup\Mapper-20170922T104833Z-001\Mapper\app\libs\GraphView-4.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3626a38455159707e355da96a61e598fbbc049e9">
+        <dex dex="D:\backup\Mapper-20170922T104833Z-001\Mapper\app\build\intermediates\pre-dexed\debug\GraphView-4.2.1_729d0f3fb51f91a861bd7590f1e6a5fb513b867d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Sat Sep 23 20:24:18 GMT+05:30 2017
+base.0=D\:\\backup\\Mapper-20170922T104833Z-001\\Mapper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=D\:\\backup\\Mapper-20170922T104833Z-001\\Mapper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
